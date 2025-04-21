@@ -37,4 +37,3 @@ for piso in range(4):
             print("Letra ingresada es incorrecta")
 
 print("Felicitaciones, llegaste al piso 5\nJuego Terminado")
-print("Game over")

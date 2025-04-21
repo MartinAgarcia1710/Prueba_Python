@@ -9,5 +9,7 @@ edad = calcular_edad(nac)
 
 print(f"Tenes entre {edad - 1} y {edad} años")
 
+def funcion_inservible():
+    pass
 
 
